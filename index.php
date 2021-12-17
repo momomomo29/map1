@@ -1,1 +1,1 @@
-<?php include_once("map1.html"); ?>
+<?php include_once("kikenMap_16.php"); ?>
