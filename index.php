@@ -1,1 +1,0 @@
-<?php include_once("kikenMap_16.php"); ?>
